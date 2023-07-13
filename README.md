@@ -11,9 +11,7 @@
 
 ### 具体配置请查看以下链接
 
-```azure
 https://www.chensonglin.net/goldendict
-```
 
 
 ### 感谢leo,goland代码转自以下python
